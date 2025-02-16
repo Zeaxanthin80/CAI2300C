@@ -1,4 +1,4 @@
-# 📚 CAI2300C
+# CAI2300C
 ## Introduction to Natural Language Processing  
 
 This repository contains Jupyter Notebooks and resources for the **CAI2300C: Introduction to Natural Language Processing** course I'm taking at Miami Dade College.  
@@ -17,7 +17,7 @@ In this course, students learn the fundamental concepts of **Natural Language Pr
 - 📊 **`data/`** - Datasets used throughout the course  
 - 📝 **`assignments/`** - Additional exercises and homework  
 
-### 🚀 Getting Started  
+## 🚀 Getting Started  
 
 To set up this repository on your machine, run the following commands in your terminal:  
 
@@ -61,5 +61,5 @@ pip install -r requirements.txt
 ### 📦 Large datasets are not included in the repository. 
 You can download them from the course materials or specified sources.
 
-### 📜 License
+## 📜 License
 This repository is intended for personal and educational use only. All course-related materials belong to Miami Dade College and should be used in accordance with the institution's academic policies.
