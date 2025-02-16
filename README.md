@@ -1,7 +1,7 @@
 # CAI2300C
 ## Introduction to Natural Language Processing  
 
-This repository contains Jupyter Notebooks and resources for the **CAI2300C: Introduction to Natural Language Processing** course I'm taking at Miami Dade College.  
+This repository contains Jupyter Notebooks and resources for the **CAI2300C: Introduction to Natural Language Processing** course I'm taking with Dr. Ernesto Lee at Miami Dade College.  
 
 ## 📖 Course Overview  
 
