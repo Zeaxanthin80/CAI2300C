@@ -10,4 +10,5 @@ torch
 tensorflow
 openai
 PyPDF2
+gradio
 jupyter  # Needed to run Jupyter kernels in VS Code
