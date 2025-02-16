@@ -20,4 +20,4 @@ In this course, students will learn the fundamental concepts of **Natural Langua
 
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/yourusername/CAI2300C_NLP.git
+   git clone https://github.com/Zeaxanthin80/CAI2300C.git
