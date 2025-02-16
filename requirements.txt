@@ -8,4 +8,5 @@ spacy
 transformers
 torch
 tensorflow
+openai
 jupyter  # Needed to run Jupyter kernels in VS Code
