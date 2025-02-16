@@ -1,4 +1,5 @@
-# 📚 CAI2300C | Introduction to Natural Language Processing  
+# 📚 CAI2300C
+## Introduction to Natural Language Processing  
 
 This repository contains Jupyter Notebooks and resources for the **CAI2300C: Introduction to Natural Language Processing** course I'm taking at Miami Dade College.  
 
