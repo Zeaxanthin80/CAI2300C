@@ -61,22 +61,18 @@ pip install -r requirements.txt
 ### 📦 Large datasets are not included in the repository. 
 You can download them from the course materials or specified sources.
 
-### Colab Link
-To add the colab link so that it appears at the top of the notebook in the GitHub code preview page, copy the following code and paste it to the top of the raw colab file.
-```sh
-{
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/<USER_NAME>/<REPO_NAME>/blob/main/<FILE_NAME>.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\" width=\"2em\" height=\"auto\"/></a>"
-      ]
-    },
-```
+
+### 🔗 Colab Link 
+![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
+To add the colab link so that it appears at the top of the notebook in the GitHub code preview page follow the steps below.
+
+Steps to save file with the colab link in GitHub
+
+1. Open the file in colab (usually shared by Dr. Lee)
+2. Rename the file using COURSE_YYYYMMDD_Week_XX.ipynb format
+3. Save to GitHub via the File > Save dialog box and make sure the "Include a link to Colab" box is selected.
+4. (Optional) Initiate a Pull request with VS Code to work on file locally.
 
 ## 📜 License
 This repository is intended for personal and educational use only. All course-related materials belong to Miami Dade College and should be used in accordance with the institution's academic policies.
