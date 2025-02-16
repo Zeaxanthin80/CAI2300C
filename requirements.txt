@@ -9,4 +9,5 @@ transformers
 torch
 tensorflow
 openai
+PyPDF2
 jupyter  # Needed to run Jupyter kernels in VS Code
