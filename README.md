@@ -69,7 +69,7 @@ To add the colab link so that it appears at the top of the notebook in the GitHu
 
 Steps to save file with the colab link in GitHub
 
-1. Open the file in colab (usually shared by Dr. Lee)
+1. Open the file in colab
 2. Rename the file using COURSE_YYYYMMDD_Week_XX.ipynb format
 3. Save to GitHub via the File > Save dialog box and make sure the "Include a link to Colab" box is selected.
 4. (Optional) Initiate a Pull request with VS Code to work on file locally.
