@@ -1,4 +1,3 @@
-Patient Statement,Glucose Level Category
 I'm feeling really dizzy and weak. I think my sugar is too low.,low
 "I have a slight headache, and I feel lightheaded.",low
 I feel really shaky and sweaty.,low
@@ -39,7 +38,6 @@ I'm breaking out in a cold sweat and feel dizzy.,low
 I feel like I need sugar immediately.,low
 My whole body feels weak and fatigued.,low
 I feel a little jittery and slightly confused.,low
-I feel weak and my hands are shaking uncontrollably.,low
 I feel normal and my energy is steady.,normal
 "I feel good, no issues today.",normal
 "My body feels just right, no dizziness.",normal
@@ -80,7 +78,6 @@ I'm maintaining a steady and normal state.,normal
 "I feel well, with no sugar-related issues.",normal
 "No dehydration or fatigue, everything is normal.",normal
 I'm relaxed and feel completely fine.,normal
-I feel perfectly balanced today.,normal
 I'm feeling extremely thirsty and keep drinking water.,high
 I have blurry vision and my mouth feels dry.,high
 My sugar levels are way too high today.,high
@@ -121,4 +118,3 @@ I keep waking up thirsty at night.,high
 "I feel heavy and slow, like I’m moving through syrup.",high
 I have this constant dry feeling in my throat.,high
 I'm feeling really fatigued and out of sorts.,high
-I'm drinking so much water but my mouth stays dry.,high
